@@ -4,6 +4,12 @@ A lightweight, highly customizable performance monitor for Windows, developed en
 
 Performance Monitor is a **Portable** software. It requires no installation and does not alter your system registry.
 
+## 📸 Screenshots
+
+**Main Window Transparency Examples** ![Main Window Transparency Examples](Transparency Examples.jpeg)
+
+**Adjustment & Settings Windows** ![Settings Windows](Adjustment & Settings.jpeg)
+
 ## 🚀 Key Features
 
 * **Hybrid Monitoring Engine:** Uses C# code injected at runtime to access native APIs (PDH for CPU, Kernel32 for RAM, and NVML for GPU), ensuring precise readings with minimal processor impact.
