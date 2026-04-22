@@ -14,7 +14,7 @@ Performance Monitor is a **Portable** software. It requires no installation and 
 
 * **Hybrid Monitoring Engine:** Uses C# code injected at runtime to access native APIs (PDH for CPU, Kernel32 for RAM, and NVML for GPU), ensuring precise readings with minimal processor impact.
 * **Opacity Adjustment:** Allows independent control of the transparency for both the window background and the content elements, enabling aesthetic personalization according to user needs.
-* **Adaptive Sampling (Statistical Pipeline): Includes advanced, highly optimized filters for real-time data smoothing, specifically DEMA (Double Exponential Moving Average) and Hysteresis (Noise Filter).
+* **Adaptive Sampling (Statistical Pipeline):** Includes advanced, highly optimized filters for real-time data smoothing, specifically DEMA (Double Exponential Moving Average) and Hysteresis (Noise Filter).
 * **Frequency Adjustment:** Allows the user to manually define the frequency for hardware statistics collection.
 * **Window Position:** Enables the user to memorize the current window position on the screen and set it as the default for future launches.
 * **Smart Hotkey System:** Supports global shortcuts in three modes: *Single Press*, *Hold Button*, and *Combo*.
