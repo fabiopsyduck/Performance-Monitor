@@ -8,7 +8,7 @@ Performance Monitor is a **Portable** software. It requires no installation and 
 
 **Main Window Transparency Examples** ![Main Window Transparency Examples](Transparency%20Examples.jpeg)
 
-**Adjustment & Settings Windows** ![Settings Windows](Adjustment%20%26%20Settings.jpeg)
+**Adjustment & Settings Windows** ![Settings Windows](Adjustment%20%26%20Settings.jpg)
 
 ## 🚀 Key Features
 
