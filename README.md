@@ -10,6 +10,7 @@ Performance Monitor is a **Portable** software. It requires no installation and 
 
 **Adjustment & Settings Windows** ![Settings Windows](Adjustment%20%26%20Settings.jpg)
 
+
 **Compact Mode (No NVIDIA GPU)** ![Compact Mode (No NVIDIA GPU)](Compact%20Mode.png)
 
 ## 🚀 Key Features
