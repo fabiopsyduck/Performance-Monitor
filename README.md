@@ -6,11 +6,14 @@ Performance Monitor is a **Portable** software. It requires no installation and 
 
 ## 📸 Screenshots
 
-**Main Window Transparency Examples** ![Main Window Transparency Examples](Transparency%20Examples.jpeg)
+**Main Window Transparency Examples**
+![Main Window Transparency Examples](Transparency%20Examples.jpeg)
 
-**Adjustment & Settings Windows** ![Settings Windows](Adjustment%20%26%20Settings.jpg)
+**Adjustment & Settings Windows**
+![Settings Windows](Adjustment%20%26%20Settings.jpg)
 
-**Compact Mode (No NVIDIA GPU)** ![Compact Mode (No NVIDIA GPU)](Compact%20Mode.png)
+**Compact Mode (No NVIDIA GPU)**
+![Compact Mode (No NVIDIA GPU)](Compact%20Mode.png)
 
 ## 🚀 Key Features
 
