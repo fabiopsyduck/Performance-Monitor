@@ -1,6 +1,6 @@
 # Performance Monitor
 
-A lightweight, highly customizable performance monitor for Windows, developed entirely in **PowerShell** with integrated **C#** native code to achieve maximum efficiency and low latency.
+A lightweight, highly customizable performance monitor for Windows designed to function as an **On-Screen Display (OSD) overlay**. Developed entirely in **PowerShell** with integrated **C#** native code to achieve maximum efficiency and low latency.
 
 Performance Monitor is a **Portable** software. It requires no installation and does not alter your system registry.
 
